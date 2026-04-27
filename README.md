@@ -4,12 +4,6 @@ A Flutter mobile application that provides real-time Metro Bus updates in a simp
 
 ---
 
-## 📱 Screenshots
-
-(Add your screenshots here later)
-
----
-
 ## ✨ Features
 
 - Live Metro status (Open / Closed)
