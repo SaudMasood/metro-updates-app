@@ -1,16 +1,46 @@
-# metro
+# 🚍 Metro Updates App
 
-A new Flutter project.
+A Flutter mobile application that provides real-time Metro Bus updates in a simple and easy-to-understand format.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+(Add your screenshots here later)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Live Metro status (Open / Closed)
+- Station-wise updates
+- Admin panel to post updates
+- Clean and user-friendly UI
+- Real-time data using Firebase
+- Push notifications
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging (FCM)
+
+---
+
+## 🎯 Problem Solved
+
+Metro updates are usually shared via WhatsApp messages, which are confusing and unstructured.  
+This app converts them into a clean and easy UI for users.
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/SaudMasood/metro-updates-app.git
+cd metro-updates-app
+flutter pub get
+flutter run
